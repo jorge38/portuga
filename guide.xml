@@ -1,0 +1,1794 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TVCINE TOP">
+    <display-name lang="pt">TVCINE TOP</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE EDITION">
+    <display-name lang="pt">TVCINE EDITION</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE EMOTION">
+    <display-name lang="pt">TVCINE EMOTION</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE ACTION">
+    <display-name lang="pt">TVCINE ACTION</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <programme start="20200120004500 +0000" stop="20200120023500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Captive State - Cercados</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120023500 +0000" stop="20200120041500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Anon</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120041500 +0000" stop="20200120060000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Mulher Que Segue à Frente</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120060000 +0000" stop="20200120073000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Trico Tri - Feliz Halloween</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120073000 +0000" stop="20200120093000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Isto é Vida</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120093000 +0000" stop="20200120113000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Captain Marvel (Capitão Marvel)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120113000 +0000" stop="20200120125500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Johnny English Volta a Atacar</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120125500 +0000" stop="20200120144500 +0000" channel="TVCINE TOP">
+    <title lang="pt">O Candidato Principal</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120144500 +0000" stop="20200120161500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Holmes &amp; Watson</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120161500 +0000" stop="20200120175500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Corredor Assombrado</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120175500 +0000" stop="20200120195000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Quero-te Tanto</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120195000 +0000" stop="20200120213000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Mentes Poderosas</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120213000 +0000" stop="20200120233000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Um Pequeno Favor</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120233000 +0000" stop="20200121011500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Jogo da Apanhada</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121011500 +0000" stop="20200121025000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Coexistir Não é Fácil</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121025000 +0000" stop="20200121043000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Snu</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121043000 +0000" stop="20200121061500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Killer Joe</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121061500 +0000" stop="20200121083000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Todos Sabem</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121083000 +0000" stop="20200121102500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Quero-te Tanto</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121102500 +0000" stop="20200121120500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Mentes Poderosas</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121120500 +0000" stop="20200121140500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Um Pequeno Favor</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121140500 +0000" stop="20200121154500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Jogo da Apanhada</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121154500 +0000" stop="20200121172000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Mia e o Leão Branco</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121172000 +0000" stop="20200121194000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Aquaman</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121194000 +0000" stop="20200121213000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Dumbo (2019) (VO)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121213000 +0000" stop="20200121232500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Miss XL</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121232500 +0000" stop="20200121233500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Cinetendinha</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E328</episode-num>
+  </programme>
+  <programme start="20200121233500 +0000" stop="20200122014500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Monstros Fantásticos: Os Crimes de Grindelwald</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122014500 +0000" stop="20200122033000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Yardie</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122033000 +0000" stop="20200122051000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Em Alta</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122051000 +0000" stop="20200122065000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Sophie e o Sol Nascente</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122065000 +0000" stop="20200122082500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Mistrust - Insegurança</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122082500 +0000" stop="20200122100000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Teen Spirit - Conquista o Sonho</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122100000 +0000" stop="20200122122000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Aquaman</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122122000 +0000" stop="20200122141000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Dumbo (2019) (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122141000 +0000" stop="20200122160500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Miss XL</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122160500 +0000" stop="20200122181500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Monstros Fantásticos: Os Crimes de Grindelwald</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122181500 +0000" stop="20200122194500 +0000" channel="TVCINE TOP">
+    <title lang="pt">O Cavalheiro Com Arma</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122194500 +0000" stop="20200122213000 +0000" channel="TVCINE TOP">
+    <title lang="pt">O Predador (2018)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122213000 +0000" stop="20200122232000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Réplicas</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122232000 +0000" stop="20200123012000 +0000" channel="TVCINE TOP">
+    <title lang="pt">The Equalizer 2 - A Vingança</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123012000 +0000" stop="20200123030000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Cesar Chavez</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123030000 +0000" stop="20200123045500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Com Estilo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123045500 +0000" stop="20200123063500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Cucuy: O Papão</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123063500 +0000" stop="20200123081500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Safari do Amor</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123081500 +0000" stop="20200123094500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Journeyman: Vontade de Vencer</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123094500 +0000" stop="20200123112000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Falhados… Por um Fio 2</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123112000 +0000" stop="20200123125000 +0000" channel="TVCINE TOP">
+    <title lang="pt">O Cavalheiro Com Arma</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123125000 +0000" stop="20200123143500 +0000" channel="TVCINE TOP">
+    <title lang="pt">O Predador (2018)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123143500 +0000" stop="20200123162000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Réplicas</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123162000 +0000" stop="20200123182000 +0000" channel="TVCINE TOP">
+    <title lang="pt">The Equalizer 2 - A Vingança</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123182000 +0000" stop="20200123195500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Smallfoot: Uma Aventura Gelada (VO)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123195500 +0000" stop="20200123213000 +0000" channel="TVCINE TOP">
+    <title lang="pt">O Padre</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123213000 +0000" stop="20200123234000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Aladdin (2019) (VO)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123234000 +0000" stop="20200124013500 +0000" channel="TVCINE TOP">
+    <title lang="pt">A Turma da Noite</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124013500 +0000" stop="20200124033500 +0000" channel="TVCINE TOP">
+    <title lang="pt">A Escola da Vida</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124033500 +0000" stop="20200124054500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Vice</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124054500 +0000" stop="20200124072500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Centro de Dia Improvisado</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124072500 +0000" stop="20200124090500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Quando o Amor Chega</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124090500 +0000" stop="20200124110000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Setembros de Shiraz</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124110000 +0000" stop="20200124124000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Smallfoot: Uma Aventura Gelada (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124124000 +0000" stop="20200124142000 +0000" channel="TVCINE TOP">
+    <title lang="pt">O Padre</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124142000 +0000" stop="20200124163000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Aladdin (2019) (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124163000 +0000" stop="20200124182000 +0000" channel="TVCINE TOP">
+    <title lang="pt">A Turma da Noite</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124182000 +0000" stop="20200124195000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Aqui e Agora (2018)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124195000 +0000" stop="20200124213000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Tudo o Que Tiveram</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124213000 +0000" stop="20200124234000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Shazam</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124234000 +0000" stop="20200125015000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Vice</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125015000 +0000" stop="20200125032500 +0000" channel="TVCINE TOP">
+    <title lang="pt">De Volta a Casa</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125032500 +0000" stop="20200125052500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Asiáticos Doidos e Ricos</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125052500 +0000" stop="20200125065500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Operação Shock and Awe</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125065500 +0000" stop="20200125082500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Aqui e Agora (2018)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125082500 +0000" stop="20200125100500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Tudo o Que Tiveram</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125100500 +0000" stop="20200125121500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Shazam</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125121500 +0000" stop="20200125135000 +0000" channel="TVCINE TOP">
+    <title lang="pt">De Volta a Casa</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125135000 +0000" stop="20200125155000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Asiáticos Doidos e Ricos</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125155000 +0000" stop="20200125180500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Assim Nasce uma Estrela</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125180500 +0000" stop="20200125193500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Operação Shock and Awe</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125193500 +0000" stop="20200125213000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Família Instantânea</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125213000 +0000" stop="20200125231000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Bucha &amp; Estica</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125231000 +0000" stop="20200126011000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Homem-Formiga e a Vespa</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126011000 +0000" stop="20200126031000 +0000" channel="TVCINE TOP">
+    <title lang="pt">A Rapariga Apanhada na Teia de Aranha</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126031000 +0000" stop="20200126050500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Pela Borda Fora (2018)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126050500 +0000" stop="20200126072500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Assim Nasce uma Estrela</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126072500 +0000" stop="20200126094000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Vice</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126094000 +0000" stop="20200126112000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Como Treinares o Teu Dragão: O Mundo Secreto (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126112000 +0000" stop="20200126124500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Parque das Maravilhas (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126124500 +0000" stop="20200126143500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Pela Borda Fora (2018)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126143500 +0000" stop="20200126173000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Vingadores: Endgame</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126173000 +0000" stop="20200126193500 +0000" channel="TVCINE TOP">
+    <title lang="pt">Glass</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126193500 +0000" stop="20200126213000 +0000" channel="TVCINE TOP">
+    <title lang="pt">A Rapariga Apanhada na Teia de Aranha</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126213000 +0000" stop="20200126230000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Parque das Maravilhas (VO)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126230000 +0000" stop="20200127005000 +0000" channel="TVCINE TOP">
+    <title lang="pt">Nação Assassina</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120013000 +0000" stop="20200120035000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Semente do Diabo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120035000 +0000" stop="20200120054000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Psico</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120054000 +0000" stop="20200120071000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Hotel Império</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120071000 +0000" stop="20200120104000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Lawrence da Arábia (Versão Restaurada)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120104000 +0000" stop="20200120124000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">O Passado Não Perdoa</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120124000 +0000" stop="20200120142500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">The Most Beautiful Country in the World</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200120142500 +0000" stop="20200120162000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">O Carteiro de Pablo Neruda</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120162000 +0000" stop="20200120183000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Todos Sabem</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120183000 +0000" stop="20200120202500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Frenético</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120202500 +0000" stop="20200120220000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Vera Cruz</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120220000 +0000" stop="20200120234500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Mulher Que Segue à Frente</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120234500 +0000" stop="20200121020500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Semente do Diabo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121020500 +0000" stop="20200121045500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Da Terra Nascem os Homens</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121045500 +0000" stop="20200121064000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Última Caravana</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121064000 +0000" stop="20200121070000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Nossa Loucura</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121070000 +0000" stop="20200121083000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Terra Franca</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200121083000 +0000" stop="20200121095500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Corda</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121095500 +0000" stop="20200121121500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Idade da Inocência</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121121500 +0000" stop="20200121135000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Coexistir Não é Fácil</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121135000 +0000" stop="20200121151500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Mathera</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200121151500 +0000" stop="20200121164000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Hotel Império</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121164000 +0000" stop="20200121182000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Karelia: International with Monument</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200121182000 +0000" stop="20200121202000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">O Passado Não Perdoa</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121202000 +0000" stop="20200121220000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">O Homem do Oeste</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121220000 +0000" stop="20200121235000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">O Homem Que Veio do Futuro</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121235000 +0000" stop="20200122014500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">O Barbeiro (2001)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122014500 +0000" stop="20200122023000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Dom Fradique</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122023000 +0000" stop="20200122050500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">O Adeus às Armas</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122050500 +0000" stop="20200122063500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Rosie - Uma Família Sem Teto</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122063500 +0000" stop="20200122083000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">O Homem Que Veio do Futuro</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122083000 +0000" stop="20200122102500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">O Barbeiro (2001)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122102500 +0000" stop="20200122115000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">As Hiper Mulheres</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200122115000 +0000" stop="20200122140000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">O Diabo às 4 Horas</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122140000 +0000" stop="20200122163500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">O Adeus às Armas</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122163500 +0000" stop="20200122181000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">As Horas de Luz</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122181000 +0000" stop="20200122193500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Rosie - Uma Família Sem Teto</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122193500 +0000" stop="20200122220000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Noite dos Generais</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122220000 +0000" stop="20200122235000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">O Grande Circo Místico</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122235000 +0000" stop="20200123023500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Da Terra Nascem os Homens</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123023500 +0000" stop="20200123030000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Raymonde ou L</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123030000 +0000" stop="20200123045500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Chuva é Cantoria na Aldeia dos Mortos</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200123045500 +0000" stop="20200123062500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">127 Horas</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123062500 +0000" stop="20200123080000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">As Horas de Luz</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123080000 +0000" stop="20200123095000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">O Grande Circo Místico</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123095000 +0000" stop="20200123111500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Mathera</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200123111500 +0000" stop="20200123131000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Chuva é Cantoria na Aldeia dos Mortos</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200123131000 +0000" stop="20200123144000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">127 Horas</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123144000 +0000" stop="20200123163500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Os Pássaros</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123163500 +0000" stop="20200123184500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">O Rio Vermelho</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123184500 +0000" stop="20200123185500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Cinetendinha</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E328</episode-num>
+  </programme>
+  <programme start="20200123185500 +0000" stop="20200123201000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Vida é um Sonho</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123201000 +0000" stop="20200123220000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Janela Indiscreta</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123220000 +0000" stop="20200123233000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Journeyman: Vontade de Vencer</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123233000 +0000" stop="20200124013000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Barton Fink</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124013000 +0000" stop="20200124030000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">As Hiper Mulheres</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200124030000 +0000" stop="20200124051000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">O Diabo às 4 Horas</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124051000 +0000" stop="20200124074000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Noite dos Generais</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124074000 +0000" stop="20200124095500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">O Rio Vermelho</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124095500 +0000" stop="20200124121500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Agonia e o Êxtase</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124121500 +0000" stop="20200124135500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Imagens Proibidas</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124135500 +0000" stop="20200124155500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Escola da Vida</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124155500 +0000" stop="20200124173500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Basílica de São Pedro e as Basílicas Papais de Roma</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200124173500 +0000" stop="20200124202000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Torre do Inferno</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124202000 +0000" stop="20200124220000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Dama Marcada</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124220000 +0000" stop="20200124232000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Dança das Máscaras</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200124232000 +0000" stop="20200125004000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">An Open Rose</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200125004000 +0000" stop="20200125005500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Mim</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200125005500 +0000" stop="20200125025500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Aparição</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125025500 +0000" stop="20200125055000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">O Dia mais Longo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125055000 +0000" stop="20200125061000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Mim</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200125061000 +0000" stop="20200125083000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Agonia e o Êxtase</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125083000 +0000" stop="20200125101000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Dama Marcada</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125101000 +0000" stop="20200125113000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Dança das Máscaras</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200125113000 +0000" stop="20200125130500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Campo de Treino Pais e Filhos</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125130500 +0000" stop="20200125150500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Aparição</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125150500 +0000" stop="20200125180000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">O Dia mais Longo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125180000 +0000" stop="20200125200000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Tiro de Escape</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125200000 +0000" stop="20200125220000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Favorita</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125220000 +0000" stop="20200125233500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Balbúrdia no Oeste</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125233500 +0000" stop="20200126010500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Flecha Quebrada</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126010500 +0000" stop="20200126033000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Funny Girl - uma Rapariga Endiabrada</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126033000 +0000" stop="20200126051500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Por Favor Não Me Mordam o Pescoço</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126051500 +0000" stop="20200126071500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Tiro de Escape</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126071500 +0000" stop="20200126091500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Favorita</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126091500 +0000" stop="20200126105000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Balbúrdia no Oeste</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126105000 +0000" stop="20200126122500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Flecha Quebrada</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126122500 +0000" stop="20200126135500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">As Aventuras do Pequeno Spirou (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126135500 +0000" stop="20200126160500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">A Nossa Irmã Mais Nova</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126160500 +0000" stop="20200126183000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Funny Girl - uma Rapariga Endiabrada</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126183000 +0000" stop="20200126201500 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Por Favor Não Me Mordam o Pescoço</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126201500 +0000" stop="20200126220000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Um Homem Sério</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126220000 +0000" stop="20200127000000 +0000" channel="TVCINE EDITION">
+    <title lang="pt">Shoplifters: Uma Família de Pequenos Ladrões</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120020000 +0000" stop="20200120034000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Uma Bela Orgia à Moda Antiga</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120034000 +0000" stop="20200120052000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Um Amor de Verão</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120052000 +0000" stop="20200120072500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">O Rapaz Que Queria Ser Rei</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120072500 +0000" stop="20200120091500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">55 Passos</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120091500 +0000" stop="20200120105000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Natal Perdido</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120105000 +0000" stop="20200120120500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">A Noiva Cadáver (VO)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120120500 +0000" stop="20200120124500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Teen Wolf</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20200120124500 +0000" stop="20200120132500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Dead Like Me</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20200120132500 +0000" stop="20200120134500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Will and Grace</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S11E3</episode-num>
+  </programme>
+  <programme start="20200120134500 +0000" stop="20200120141000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Will and Grace</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S11E4</episode-num>
+  </programme>
+  <programme start="20200120141000 +0000" stop="20200120145500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">UnReal</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200120145500 +0000" stop="20200120154000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">UnReal</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20200120154000 +0000" stop="20200120171000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Trico Tri - Feliz Halloween</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120171000 +0000" stop="20200120191000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Charlie e a Fábrica de Chocolate</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120191000 +0000" stop="20200120195000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Teen Wolf</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200120195000 +0000" stop="20200120203000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Dead Like Me</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200120203000 +0000" stop="20200120212500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">The Affair</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S5E1</episode-num>
+  </programme>
+  <programme start="20200120212500 +0000" stop="20200120221000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Suits: Jessica Pearson</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200120221000 +0000" stop="20200120225500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Madam Secretary</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S6E1</episode-num>
+  </programme>
+  <programme start="20200120225500 +0000" stop="20200121003500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">A Viagem de Despedida</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121003500 +0000" stop="20200121021500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Um Amor de Verão</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121021500 +0000" stop="20200121035500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Uma Bela Orgia à Moda Antiga</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121035500 +0000" stop="20200121053500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Natal Perdido</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121053500 +0000" stop="20200121070000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">A Noiva Cadáver (VO)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121070000 +0000" stop="20200121084000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">A Viagem de Despedida</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121084000 +0000" stop="20200121101500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Pérola no Paraíso</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121101500 +0000" stop="20200121115500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Os Smurfs (VO)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121115500 +0000" stop="20200121123500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Teen Wolf</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200121123500 +0000" stop="20200121131500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Dead Like Me</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200121131500 +0000" stop="20200121141500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">The Affair</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S5E1</episode-num>
+  </programme>
+  <programme start="20200121141500 +0000" stop="20200121150000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Suits: Jessica Pearson</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200121150000 +0000" stop="20200121154500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Madam Secretary</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S6E1</episode-num>
+  </programme>
+  <programme start="20200121154500 +0000" stop="20200121174500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Julie e Julia</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121174500 +0000" stop="20200121192000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Falhados… Por um Fio 2</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121192000 +0000" stop="20200121200000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Teen Wolf</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20200121200000 +0000" stop="20200121204500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Dead Like Me</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20200121204500 +0000" stop="20200121212500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Chicago Med</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S5E2</episode-num>
+  </programme>
+  <programme start="20200121212500 +0000" stop="20200121221000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Chicago Fire</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S8E2</episode-num>
+  </programme>
+  <programme start="20200121221000 +0000" stop="20200121225000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Chicago P.D.</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S7E2</episode-num>
+  </programme>
+  <programme start="20200121225000 +0000" stop="20200122002500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Madame</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122002500 +0000" stop="20200122015500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Romance Arriscado</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122015500 +0000" stop="20200122035000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Os Pássaros</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122035000 +0000" stop="20200122052000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Pérola no Paraíso</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122052000 +0000" stop="20200122072500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Charlie e a Fábrica de Chocolate</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122072500 +0000" stop="20200122085500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Romance Arriscado</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122085500 +0000" stop="20200122101000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Daphne e Velma</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122101000 +0000" stop="20200122115500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Os Smurfs 2 (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122115500 +0000" stop="20200122123500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Teen Wolf</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20200122123500 +0000" stop="20200122132000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Dead Like Me</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20200122132000 +0000" stop="20200122140500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Chicago Med</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S5E2</episode-num>
+  </programme>
+  <programme start="20200122140500 +0000" stop="20200122145000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Chicago Fire</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S8E2</episode-num>
+  </programme>
+  <programme start="20200122145000 +0000" stop="20200122153500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Chicago P.D.</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S7E2</episode-num>
+  </programme>
+  <programme start="20200122153500 +0000" stop="20200122171500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Sophie e o Sol Nascente</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122171500 +0000" stop="20200122192000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Orgulho e Preconceito</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122192000 +0000" stop="20200122200000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Teen Wolf</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20200122200000 +0000" stop="20200122204500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Dead Like Me</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20200122204500 +0000" stop="20200122212500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Chicago Med</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S5E3</episode-num>
+  </programme>
+  <programme start="20200122212500 +0000" stop="20200122221000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Chicago Fire</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S8E3</episode-num>
+  </programme>
+  <programme start="20200122221000 +0000" stop="20200122225000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Chicago P.D.</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S7E3</episode-num>
+  </programme>
+  <programme start="20200122225000 +0000" stop="20200123002500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Mistrust - Insegurança</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123002500 +0000" stop="20200123025500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Contacto</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123025500 +0000" stop="20200123044500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Nostalgia</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123044500 +0000" stop="20200123071500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Códigos de Guerra (Director</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123071500 +0000" stop="20200123083000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Daphne e Velma</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123083000 +0000" stop="20200123100500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Anastásia (VO)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123100500 +0000" stop="20200123123000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Contacto</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123123000 +0000" stop="20200123131000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Teen Wolf</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20200123131000 +0000" stop="20200123135500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Dead Like Me</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20200123135500 +0000" stop="20200123144000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Chicago Med</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S5E3</episode-num>
+  </programme>
+  <programme start="20200123144000 +0000" stop="20200123152500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Chicago Fire</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S8E3</episode-num>
+  </programme>
+  <programme start="20200123152500 +0000" stop="20200123161000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Chicago P.D.</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S7E3</episode-num>
+  </programme>
+  <programme start="20200123161000 +0000" stop="20200123175000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Cesar Chavez</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123175000 +0000" stop="20200123192500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Um Natal em Família</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123192500 +0000" stop="20200123200500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Teen Wolf</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20200123200500 +0000" stop="20200123204500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Dead Like Me</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20200123204500 +0000" stop="20200123213000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">UnReal</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200123213000 +0000" stop="20200123221000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">UnReal</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20200123221000 +0000" stop="20200123225500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">UnReal</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200123225500 +0000" stop="20200124005000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">A Pequena Chefe</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124005000 +0000" stop="20200124023000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Safari do Amor</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124023000 +0000" stop="20200124041500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Um Sonho de Rapariga</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124041500 +0000" stop="20200124054000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">O Livro da Selva (VO)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124054000 +0000" stop="20200124072000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Anastásia (VO)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124072000 +0000" stop="20200124084500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">O Livro da Selva (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124084500 +0000" stop="20200124102500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Meia-Noite em Paris</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124102500 +0000" stop="20200124121000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Um Natal em Família</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124121000 +0000" stop="20200124140000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Amor Por Acaso (2009)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124140000 +0000" stop="20200124154000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Centro de Dia Improvisado</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124154000 +0000" stop="20200124173500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Nostalgia</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124173500 +0000" stop="20200124190000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">O Deus da Carnificina</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124190000 +0000" stop="20200124203000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Um Natal Feito em Casa</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124203000 +0000" stop="20200124221500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Prometo Amar-te</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124221500 +0000" stop="20200124235000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Quando o Amor Chega</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124235000 +0000" stop="20200125012000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">A Apólice Milionária</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125012000 +0000" stop="20200125024000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Professor do Ano</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125024000 +0000" stop="20200125040500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Teen Titans Go! o Filme (VO)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125040500 +0000" stop="20200125061500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Orgulho e Preconceito</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125061500 +0000" stop="20200125074000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">O Deus da Carnificina</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125074000 +0000" stop="20200125091000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Um Natal Feito em Casa</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125091000 +0000" stop="20200125105500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Prometo Amar-te</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125105500 +0000" stop="20200125123000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">A Apólice Milionária</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125123000 +0000" stop="20200125142000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">A Pequena Chefe</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125142000 +0000" stop="20200125155000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Aladino e o Tapete Mágico (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125155000 +0000" stop="20200125171500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Professor do Ano</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125171500 +0000" stop="20200125184000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Teen Titans Go! o Filme (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125184000 +0000" stop="20200125203000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Este Coração Traiçoeiro</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125203000 +0000" stop="20200125221500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Puzzle</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125221500 +0000" stop="20200126003500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">A Minha Versão do Amor</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126003500 +0000" stop="20200126023500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Burlesque</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126023500 +0000" stop="20200126040500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Um Amor Entre Livros</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126040500 +0000" stop="20200126060500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Dog Days - Vidas de Cão</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126060500 +0000" stop="20200126073500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Uma Boneca de Sonho 2</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126073500 +0000" stop="20200126090500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Aladino e o Tapete Mágico (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126090500 +0000" stop="20200126105500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Este Coração Traiçoeiro</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126105500 +0000" stop="20200126124000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Puzzle</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126124000 +0000" stop="20200126140000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Cinderela (1950) (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126140000 +0000" stop="20200126153000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">A Bela e o Monstro (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126153000 +0000" stop="20200126170000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Um Amor Entre Livros</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126170000 +0000" stop="20200126185500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Dog Days - Vidas de Cão</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126185500 +0000" stop="20200126204500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Paulo, Apóstolo de Cristo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126204500 +0000" stop="20200126221500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Os Piratas! (VO)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126221500 +0000" stop="20200126235000 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Nancy Drew e a Passagem Secreta</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126235000 +0000" stop="20200127014500 +0000" channel="TVCINE EMOTION">
+    <title lang="pt">Maria Madalena (2018)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120003000 +0000" stop="20200120024000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Sicario: Guerra de Cartéis</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120024000 +0000" stop="20200120042500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Corredor Assombrado</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120042500 +0000" stop="20200120063000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Sweeney Todd: O Terrível Barbeiro de Fleet Street</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120063000 +0000" stop="20200120085500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Fomos Soldados..</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120085500 +0000" stop="20200120110000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Sweeney Todd: O Terrível Barbeiro de Fleet Street</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120110000 +0000" stop="20200120115000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Vikings</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200120115000 +0000" stop="20200120124000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Knightfall - Templários</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200120124000 +0000" stop="20200120132500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Six</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200120132500 +0000" stop="20200120141500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">SEAL Team</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E1</episode-num>
+  </programme>
+  <programme start="20200120141500 +0000" stop="20200120150000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">SEAL Team</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E2</episode-num>
+  </programme>
+  <programme start="20200120150000 +0000" stop="20200120165000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">A Ressaca</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120165000 +0000" stop="20200120183500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Taxi 5</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200120183500 +0000" stop="20200120192000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Vikings</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20200120192000 +0000" stop="20200120203000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Fargo</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200120203000 +0000" stop="20200120212000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Waco</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200120212000 +0000" stop="20200120221000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Ray Donovan</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S7E7</episode-num>
+  </programme>
+  <programme start="20200120221000 +0000" stop="20200120225500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Ray Donovan</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S7E8</episode-num>
+  </programme>
+  <programme start="20200120225500 +0000" stop="20200121004000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Anon</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121004000 +0000" stop="20200121023500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Serenidade</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121023500 +0000" stop="20200121042000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Palpitações 6</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121042000 +0000" stop="20200121063500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">A Lenda de Zorro</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121063500 +0000" stop="20200121084500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Regra de Silêncio</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121084500 +0000" stop="20200121104000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Missão Solar</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121104000 +0000" stop="20200121113000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Vikings</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20200121113000 +0000" stop="20200121124000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Fargo</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200121124000 +0000" stop="20200121133000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Waco</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200121133000 +0000" stop="20200121142500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Ray Donovan</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S7E7</episode-num>
+  </programme>
+  <programme start="20200121142500 +0000" stop="20200121152000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Ray Donovan</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S7E8</episode-num>
+  </programme>
+  <programme start="20200121152000 +0000" stop="20200121172000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Sombras da Escuridão</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121172000 +0000" stop="20200121185500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Ithaca</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200121185500 +0000" stop="20200121194000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Vikings</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20200121194000 +0000" stop="20200121204000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Mr. Robot</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E1</episode-num>
+  </programme>
+  <programme start="20200121204000 +0000" stop="20200121212500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Prodigal Son</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200121212500 +0000" stop="20200121221000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Prodigal Son</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20200121221000 +0000" stop="20200121225500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Prodigal Son</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200121225500 +0000" stop="20200122004000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">A Vingança de Lizzie Borden</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122004000 +0000" stop="20200122022500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Killer Joe</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122022500 +0000" stop="20200122043500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Regra de Silêncio</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122043500 +0000" stop="20200122063500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Sombras da Escuridão</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122063500 +0000" stop="20200122083000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Missão Solar</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122083000 +0000" stop="20200122100000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Ases pelos Ares</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122100000 +0000" stop="20200122114500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Dias de Tempestade</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122114500 +0000" stop="20200122123500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Vikings</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20200122123500 +0000" stop="20200122133500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Mr. Robot</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E1</episode-num>
+  </programme>
+  <programme start="20200122133500 +0000" stop="20200122142500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Prodigal Son</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200122142500 +0000" stop="20200122151000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Prodigal Son</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20200122151000 +0000" stop="20200122155500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Prodigal Son</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200122155500 +0000" stop="20200122173000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Fome de Viver</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122173000 +0000" stop="20200122191000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Em Alta</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200122191000 +0000" stop="20200122195500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Vikings</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20200122195500 +0000" stop="20200122204000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Instinct</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E2</episode-num>
+  </programme>
+  <programme start="20200122204000 +0000" stop="20200122212500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Evil</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200122212500 +0000" stop="20200122221000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Evil</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20200122221000 +0000" stop="20200122225000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Evil</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200122225000 +0000" stop="20200123003000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">O Massacre de Amityville</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123003000 +0000" stop="20200123021000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Ghost Stories - Noites de Terror</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123021000 +0000" stop="20200123034000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">A Hóspede de Drácula de Bram Stoker</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123034000 +0000" stop="20200123052000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">A Primeira Purga</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123052000 +0000" stop="20200123065000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Ases pelos Ares</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123065000 +0000" stop="20200123082500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Fome de Viver</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123082500 +0000" stop="20200123095500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">O Sinal de Drácula</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123095500 +0000" stop="20200123113000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Cucuy: O Papão</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123113000 +0000" stop="20200123122000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Vikings</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20200123122000 +0000" stop="20200123130500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Instinct</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E2</episode-num>
+  </programme>
+  <programme start="20200123130500 +0000" stop="20200123135000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Evil</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200123135000 +0000" stop="20200123143500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Evil</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20200123143500 +0000" stop="20200123152000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Evil</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200123152000 +0000" stop="20200123171500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">A Praia</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123171500 +0000" stop="20200123191000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">A Invasão dos Violadores</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200123191000 +0000" stop="20200123195500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Vikings</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E7</episode-num>
+  </programme>
+  <programme start="20200123195500 +0000" stop="20200123204000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Knightfall - Templários</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20200123204000 +0000" stop="20200123212500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Six</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20200123212500 +0000" stop="20200123221000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">SEAL Team</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E2</episode-num>
+  </programme>
+  <programme start="20200123221000 +0000" stop="20200123225000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">SEAL Team</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E3</episode-num>
+  </programme>
+  <programme start="20200123225000 +0000" stop="20200124005000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Com Estilo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124005000 +0000" stop="20200124024000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Veio do Outro Mundo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124024000 +0000" stop="20200124043000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Insidious: Capítulo 2</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124043000 +0000" stop="20200124060500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">O Sinal de Drácula</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124060500 +0000" stop="20200124074500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">O Massacre de Amityville</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124074500 +0000" stop="20200124093500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Dias de Tempestade</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124093500 +0000" stop="20200124113500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">A Praia</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124113500 +0000" stop="20200124130500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Vampiro em Vegas</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124130500 +0000" stop="20200124150500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Sicario: Guerra de Cartéis</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124150500 +0000" stop="20200124163000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">A Hóspede de Drácula de Bram Stoker</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124163000 +0000" stop="20200124183000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Entrevista com o Vampiro</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124183000 +0000" stop="20200124202000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Planeta Vermelho</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124202000 +0000" stop="20200124223000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Dá &amp; Leva</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200124223000 +0000" stop="20200125002500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Setembros de Shiraz</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125002500 +0000" stop="20200125015000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Ases pelos Ares 2</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125015000 +0000" stop="20200125034000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Sala de Pânico</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125034000 +0000" stop="20200125051500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Ghost Stories - Noites de Terror</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125051500 +0000" stop="20200125070000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Veio do Outro Mundo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125070000 +0000" stop="20200125084500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">O Regresso de Johnny English</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125084500 +0000" stop="20200125102000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Rainha Má</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125102000 +0000" stop="20200125121000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Planeta Vermelho</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125121000 +0000" stop="20200125134500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Ithaca</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125134500 +0000" stop="20200125153500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Robin Hood: Heróis em Collants</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125153500 +0000" stop="20200125173000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Um Golpe em Itália (2003)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125173000 +0000" stop="20200125191500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Pesquisa Obsessiva</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125191500 +0000" stop="20200125205000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Realms - Desassossego</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125205000 +0000" stop="20200125223000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Insidious: Capítulo 3</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200125223000 +0000" stop="20200126000500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">A Decisão Mortal</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126000500 +0000" stop="20200126013000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Piercing</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126013000 +0000" stop="20200126031500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">A Ressaca - Parte III</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126031500 +0000" stop="20200126053000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">A Lenda de Zorro</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126053000 +0000" stop="20200126070000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Violadores: A Invasão Continua</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126070000 +0000" stop="20200126085000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Robin Hood: Heróis em Collants</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126085000 +0000" stop="20200126104500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Um Golpe em Itália (2003)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126104500 +0000" stop="20200126123000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Pesquisa Obsessiva</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126123000 +0000" stop="20200126143500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Argo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126143500 +0000" stop="20200126163000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Caçadores na Noite</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126163000 +0000" stop="20200126181500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">A Ressaca - Parte III</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126181500 +0000" stop="20200126201500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Hellboy (2019)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126201500 +0000" stop="20200126223000 +0000" channel="TVCINE ACTION">
+    <title lang="pt">A Lenda de Zorro</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200126223000 +0000" stop="20200127002500 +0000" channel="TVCINE ACTION">
+    <title lang="pt">Hanna</title>
+    <category lang="pt">filmes</category>
+  </programme>
+</tv>
